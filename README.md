@@ -68,4 +68,5 @@ Since the dataset does not contain 2024 values, I carried forward 2023 data to m
   - *Business impact*: Guides content acquisition & marketing strategy to focus on genres that boost engagement.  
 - **Regional ad engagement analysis** → Found regions where a higher % of users watch ads beyond 5 seconds.  
   - *Business impact*: Helps optimize ad targeting for better ROI.  
-- **Top 10 content tags discovered** → Some th
+- **Top 10 content tags discovered** → Some themes/tags drive significantly higher engagement.  
+  - *Business impact*: Useful for recommendation systems and personalized promotions.
