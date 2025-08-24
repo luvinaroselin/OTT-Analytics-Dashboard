@@ -3,7 +3,7 @@
 ## 📖 Project Overview
 This project analyzes OTT platform data using Excel to uncover key insights on revenue trends, customer engagement, and high-value audience segments. The analysis is supported by a dynamic dashboard for better business decision-making.
 
-## 🛠️ Tools & Skills
+ 🛠️ Tools & Skills
 - Microsoft Excel (Excel Functions, Dashboard)
 - Data Analysis & Visualization
 - Business Insights Generation
