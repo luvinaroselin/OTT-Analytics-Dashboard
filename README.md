@@ -8,7 +8,7 @@ This project analyzes OTT platform data using Excel to uncover key insights on r
 - Data Analysis & Visualization
 - Business Insights Generation
 
-🔎 How I Performed the Analysis
+##🔎 How I Performed the Analysis
 
 1. Metric Summary (2020–2024)
 
@@ -50,7 +50,7 @@ c) % of Users per Region Engaging with >3% of Ads
 3. Top 10 Most Marketable Tags
 Combined Viewership and Content sheets, filtered by 2024 to find the relevant tags and then calculate the required value.
 
-💡 Insights I Uncovered
+##💡 Insights I Uncovered
 Key Insights Uncovered from the Jetflix Data
 
 📉 Churn rate reduced over time → Customers are staying longer on the platform.
